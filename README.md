@@ -1,1 +1,4 @@
-<h1> hello</h1>
+<h1>Just a simple calculator</h1>
+
+
+<img src="./image/readme1.png">
